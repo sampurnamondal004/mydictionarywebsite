@@ -18,7 +18,7 @@ Tech Stack Used
 HTML: The basic structure of the app, including the search bar, word display area, and result container.
 CSS: Styles the app with a clean and modern design. The layout is responsive, ensuring the app works well on all screen sizes.
 JavaScript: Handles the interaction logic—fetching word data from the API, updating the UI with definitions, pronunciations, and example sentences, and managing search functionality.
-API: A public dictionary API (e.g., Dictionary API) to get real-time word definitions and example usages.
+API: A public dictionary API (Rapid API) to get real-time word definitions and example usages.
 
 
 How to Use:

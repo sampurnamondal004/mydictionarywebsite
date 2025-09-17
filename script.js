@@ -39,7 +39,7 @@ const getWordInfo = async (word) => {
 
 const getThesaurusInfo = async (word) => {
     const apiKey = "e29a9baf-722b-440d-a6f4-7d9f64c8f0e0"; 
-    const url = `https://www.dictionaryapi.com/api/v3/references/ithesaurus/json/${encodeURIComponent(word)}?key=${apiKey}`;
+    const url = `https://dictionaryapi.com/api/v3/references/ithesaurus/json/test?key=e29a9baf-722b-440d-a6f4-7d9f64c8f0e0`;
 
     try {
         resultDiv.innerHTML += `<p>Fetching synonyms and antonyms...</p>`;
